@@ -7,7 +7,7 @@
  * Return: 0
  */
 char *_strdup(char *str)
-{	
+{
 	char *aaa;
 	int i, r = 0;
 
