@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * str_concat - get ends of input and add together for size
- * @s1:The first string to concatenate 
+ * @s1:The first string to concatenate
  * @s2: input two to concat
  * Return: concat of s1 and s2
  */
